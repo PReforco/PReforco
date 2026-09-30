@@ -4,7 +4,7 @@
 
 💻 I've always had the coding bug. Long before "automation" was trendy, I was already writing scripts to fix what the GUI couldn't. These days, that obsession has fully merged with AI-assisted development — building tools, workflows and platforms that make complex infrastructure actually understandable.
 
-🤖 For the past 2 years, fully immersed in AI-powered development — and there's no going back.
+🤖 Since 2024 , fully immersed in AI-powered development — and there's no going back.
 
 🚀 Currently focused on **network observability**, **infrastructure automation** and **custom tooling** that goes beyond what traditional platforms offer. If it involves logs, telemetry, dashboards or making a network "explain itself" — I'm probably already experimenting with it.
 
